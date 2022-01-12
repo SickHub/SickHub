@@ -5,7 +5,7 @@
 ## Sub 1
 
 ### Sub 2
-Run on playground: https://go.dev/play/p/D9CY_mCnOon
+Run on playground: [Try it out!](https://go.dev/play/p/E1fh2kXyZ_4)
 ```go
 package main
 
