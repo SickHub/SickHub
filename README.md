@@ -1,34 +1,16 @@
 # SickHub
+A high quality OpenSource community of nerds and engineers.
 
-...more to come soon...
+## Our Expectations
+* Every repository has tests, a pipeline and usage documentation
+* Artifacts are built and published regularly and automatically
+* Contributions from the community are processed in a timely manner
+* Repositories are either maintained or clearly marked as deprecated
 
-## Sub 1
+## Projects
 
-### Sub 2
-Run on playground: [Try it out!](https://go.dev/play/p/E1fh2kXyZ_4)
-```go
-package main
+### [LaTeX](https://www.latex-project.org)
+* [texlive-guitartex](https://github.com/SickHub/docker-texlive-guitartex)
+Write songs in plain text with chords (`.gtx`) and generate PDFs.
 
-import (
-	"fmt"
-	"time"
-)
 
-func doWhatIMean(in string) (string, error) {
-	switch time.Now().Weekday() {
-	case time.Saturday, time.Sunday:
-		return "Learning Time?", nil
-	default:
-		return "Hacking Time?", nil
-	}
-}
-
-func main() {
-	result, err := doWhatIMean("foo")
-	if err != nil {
-		panic("WTF")
-	}
-	fmt.Println("Do you mean: " + result)
-}
-
-```
