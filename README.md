@@ -2,8 +2,9 @@
 A high quality OpenSource community of nerds and engineers.
 
 ## Why?
-Join forces with likeminded individuals on a consistent basis.
-
+* Join forces with likeminded individuals on a consistent basis.
+* Provide quality content that is backed by multiple maintainers.
+* Engage with users, contributors and sponsors to grow the community and reach.
 
 ## Our Expectations
 * Every repository has tests, a pipeline and usage documentation
@@ -23,10 +24,11 @@ A fast go logging package.
 Ansible role to simplify testing Ansible roles with Molecule.
 
 ### [LaTeX](https://www.latex-project.org)
-* [drpsychick/docker-texlive-guitartex](https://github.com/SickHub/docker-texlive-guitartex)
+* [drpsychick/texlive-guitartex](https://github.com/SickHub/docker-texlive-guitartex)
 Docker image to write songs in plain text with chords (`.gtx`) and generate PDFs from it.
+* [drpsychick/texlive-pdflatex](https://github.com/SickHub/docker-texlive-pdflatex)
+Docker image to run `pdflatex` in your pipeline to generate PDFs, includes european standard classes.
 
-  
 ## Membership
 Join us! Start by creating a PR for this repo adding your project(s).
 Details will be discussed "in person".
