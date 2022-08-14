@@ -19,6 +19,18 @@ Also from related organizations: [hamba](https://github.com/hamba)
 * [hamba/logger](https://github.com/hamba/logger)
 A fast go logging package.
 
+### [Docker](https://hub.docker.com)
+* [drpsychick/steamcmd](https://github.com/SickHub/steamcmd)
+Base Ubuntu image including `steamcmd`.
+* [drpsychick/arkserver](https://github.com/SickHub/arkserver)
+Ubuntu image for ARK Survival Evolved servers using `arkmanager`.
+
+### [Helm Charts](https://helm.sh)
+* [drpsychick/charts](https://github.com/DrPsychick/charts)
+Generic charts like cronjob and nginx-phpfpm.
+* [drpsychick/ark-server-charts](https://github.com/DrPsychick/ark-server-charts)
+Chart to deploy an ARK Survival Evolved cluster on Kuberenetes.
+
 ### [Ansible](https://www.ansible.com)
 * [drpsychick.ansible_testing](https://github.com/drpsychick/ansible-testing)
 Ansible role to simplify testing Ansible roles with Molecule.
