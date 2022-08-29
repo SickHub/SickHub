@@ -20,14 +20,16 @@ Also from related organizations: [hamba](https://github.com/hamba)
 A fast go logging package.
 
 ### [Docker](https://hub.docker.com)
+* [drpsychick/dind-*](https://github.com/SickHub/docker-ci-images)
+Several docker images for CI pipelines with `buildx`, `kubectl`, `kustomize`, `helm`, `kind`, `argocd`, ...
 * [drpsychick/steamcmd](https://github.com/SickHub/steamcmd)
 Base Ubuntu image including `steamcmd`.
 * [drpsychick/arkserver](https://github.com/SickHub/arkserver)
 Ubuntu image for ARK Survival Evolved servers using `arkmanager`.
 
 ### [Helm Charts](https://helm.sh)
-* [drpsychick/charts](https://github.com/DrPsychick/charts)
-Generic charts like cronjob and nginx-phpfpm.
+* [sickhub/charts](https://github.com/SickHub/charts)
+Generic charts like cronjobs and nginx-phpfpm.
 * [drpsychick/ark-server-charts](https://github.com/DrPsychick/ark-server-charts)
 Chart to deploy an ARK Survival Evolved cluster on Kuberenetes.
 
@@ -36,10 +38,10 @@ Chart to deploy an ARK Survival Evolved cluster on Kuberenetes.
 Ansible role to simplify testing Ansible roles with Molecule.
 
 ### [LaTeX](https://www.latex-project.org)
-* [drpsychick/texlive-guitartex](https://github.com/SickHub/docker-texlive-guitartex)
-Docker image to write songs in plain text with chords (`.gtx`) and generate PDFs from it.
 * [drpsychick/texlive-pdflatex](https://github.com/SickHub/docker-texlive-pdflatex)
 Docker image to run `pdflatex` in your pipeline to generate PDFs, includes european standard classes.
+* [drpsychick/texlive-guitartex](https://github.com/SickHub/docker-texlive-guitartex)
+Docker image to write songs in plain text with chords (`.gtx`) and generate PDFs from it.
 
 ## Membership
 Join us! Start by creating a PR for this repo adding your project(s).
